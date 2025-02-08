@@ -72,6 +72,7 @@ Bannt einen Benutzer dauerhaft.
   - `Embed Links`
 
 📝 **To-Do / Erweiterungen**
+
 ✅ `!userinfo` verbessert mit sortierten Rollen  
 ✅ `!kick` und `!ban` mit Berechtigungsprüfung  
 🔜 `!mute` & `!warn` für erweiterte Moderation  
